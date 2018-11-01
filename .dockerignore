@@ -1,0 +1,7 @@
+.idea/**/*
+.git/**/*
+.git
+servlet.iml
+target/**/*
+!target/servlet-1.0-SNAPSHOT.war
+
